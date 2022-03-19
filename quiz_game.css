@@ -1,0 +1,38 @@
+body{
+    background:url(Bg-2.jpg);
+
+    
+}
+img{
+width: 34%;
+height: 20%;
+}
+h2{
+color:red;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+color: goldenrod;
+font-family: Impact;
+}
+#player_quest
+{
+font-family:Arial, Helvetica;
+font-size: 20px;
+color:fuchsia;
+}
+#player_ans
+{
+    font-family:Arial, Helvetica;
+font-size: 20px;
+color:fuchsia;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
